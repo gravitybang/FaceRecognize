@@ -1,1 +1,2 @@
 # FaceRecognize
+This project use opencv to detect and recognize human faces. To use the function, download the cpp file, put it in a directory, and then create a sub-directory named **"image"**. Collect faces that you want computer to recognize, resize each of them 100x100. Then touch a file named *rawData* write down each picture's name and give the picture a label to mark the guy you in the picture. At last run the program.
